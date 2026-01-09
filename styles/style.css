@@ -272,3 +272,39 @@ img {
 	line-height: 20px;
 	color: #001931;
 }
+
+/* Early access section */
+#early-access .early-access-bg {
+	background-color: #f7f6f2;
+	border-radius: 12px;
+}
+#early-access .early-access-bg .early-access-content {
+	max-width: 680px;
+	text-align: center;
+	margin: 0 auto;
+	padding: 80px 40px;
+}
+
+#early-access .early-access-bg .early-access-content h2 {
+	font-size: 40px;
+	font-weight: 700;
+	color: #001931;
+	margin-bottom: 16px;
+}
+#early-access .early-access-bg .early-access-content .early-access-para1 {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	color: #627382;
+	margin-bottom: 24px;
+}
+#early-access .early-access-bg .early-access-content .early-access-btn i {
+	margin-left: 10px;
+}
+#early-access .early-access-bg .early-access-content .early-access-para2 {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 20px;
+	color: #627382;
+	margin-top: 16px;
+}
