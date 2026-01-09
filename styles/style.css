@@ -274,6 +274,9 @@ img {
 }
 
 /* Early access section */
+#early-access {
+	padding-bottom: 120px;
+}
 #early-access .early-access-bg {
 	background-color: #f7f6f2;
 	border-radius: 12px;
