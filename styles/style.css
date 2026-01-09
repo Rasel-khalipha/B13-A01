@@ -161,3 +161,61 @@ img {
 	color: #fff;
 	border: 1px solid #fff;
 }
+
+/* Notes section */
+
+#notes {
+	padding-top: 70px;
+	padding-bottom: 120px;
+}
+#notes .notes-content {
+	text-align: center;
+}
+#notes .notes-content .notes-header h2 {
+	font-size: 48px;
+	font-weight: 700;
+	color: #001931;
+	margin-bottom: 16px;
+}
+#notes .notes-content .notes-header p {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 20px;
+	color: #627382;
+	margin-bottom: 44px;
+}
+#notes .notes-content .notes-card-items {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 24px;
+}
+#notes .notes-content .notes-card-items .notes-card {
+	max-width: 322px;
+	height: 300px;
+	padding: 24px;
+	box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.1);
+	border-radius: 8px;
+}
+#notes .notes-content .notes-card-items .notes-card .icon-image {
+	width: 60px;
+	height: 60px;
+	background-color: #f95555;
+	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 0 auto;
+}
+#notes .notes-content .notes-card-items .notes-card h3 {
+	font-size: 24px;
+	font-weight: 600;
+	color: #001931;
+	margin: 16px 0;
+}
+#notes .notes-content .notes-card-items .notes-card p {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 20px;
+	color: #627382;
+}
