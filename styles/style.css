@@ -219,3 +219,56 @@ img {
 	line-height: 20px;
 	color: #627382;
 }
+
+/* Solution Section */
+#solution {
+	margin-bottom: 120px;
+}
+#solution .solution-content {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 60px;
+}
+#solution .solution-content .solution-image {
+	max-width: 600px;
+}
+#solution .solution-content .solution-right {
+	max-width: 700px;
+}
+#solution .solution-content .solution-right .solution-para1 {
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 20px;
+	color: #30b868;
+}
+#solution .solution-content .solution-right h2 {
+	font-size: 48px;
+	font-weight: 700;
+	color: #001931;
+	margin: 16px 0;
+}
+#solution .solution-content .solution-right .solution-para2 {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 20px;
+	color: #627382;
+	display: inline-block;
+	max-width: 470px;
+}
+#solution .solution-content .solution-right ul {
+	list-style: none;
+	margin-top: 40px;
+}
+#solution .solution-content .solution-right ul li {
+	margin-bottom: 16px;
+}
+#solution .solution-content .solution-right ul li img {
+	margin-right: 6px;
+}
+#solution .solution-content .solution-right ul li span {
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 20px;
+	color: #001931;
+}
